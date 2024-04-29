@@ -1,0 +1,148 @@
+.nav{
+    background-color:blue;
+    display:flex;
+    justify-content: space-evenly;
+    height:24px;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+  li{
+    list-style-type:none;
+    display:inline;
+  }
+
+  i{
+    background-color: blue;
+    font-size: 33px;
+    border-radius: 50%;
+    height:43px;
+    width:43px;
+    color:white;
+    margin-left: 10px;
+
+  }
+#contact{
+    display:inline-block;
+    margin-left: 18px;}
+
+    .head{
+        DISPLAY:FLEX;
+        justify-content: center;
+
+
+    }
+
+    H1{
+      margin-bottom: -18px;
+    }
+
+
+  
+  .container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 9px;
+      border-style: ;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 100px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: ;
+      width:200px;
+  }
+  
+  form {
+      display: flex;
+      flex-direction: column;
+  }
+  
+  label {
+      margin-top: 10px;
+  }
+  
+  input,
+  select {
+      margin-bottom: 10px;
+      padding: 8px;
+  }
+  
+  button {
+      background-color: #4caf50;
+      color: #fff;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+  }
+  
+  button:hover {
+      background-color: #45a049;
+  }
+
+
+
+  .car-card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom:100 px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      display:inline-block;
+  }
+
+  .car-image {
+      width: 290px;
+      height: 200px;
+      object-fit: cover;
+  }
+
+  .car-details {
+      padding: 1em;
+  }
+
+  .rent-button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      background-color: #4caf50;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+  }
+
+  .carbox{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  #poster{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.kN5qciGI_JqcCDXbHw5VAAHaEo&pid=Api&P=0&h=180");
+    background-size:cover;
+    height:200px;
+    width: 100%;
+    
+    
+  }
+
+.sys{
+  display:inline
+}
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;}
+
+    #cont{ position:relative;
+       bottom:410px;
+      left:450px;
+    }
